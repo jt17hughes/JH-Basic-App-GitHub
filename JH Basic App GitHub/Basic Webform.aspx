@@ -13,7 +13,8 @@
             <%=tp.Name %>
             <br />
             Hello World
-            <%-- Deleted goodbye world --%>
+            <br />
+            Goodbye World
         </div>
     </form>
 </body>
